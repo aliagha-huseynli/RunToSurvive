@@ -1,2 +1,4 @@
 # RunToSurvive
-Platform Adventure Game :)
+Platform Adventure Mobile Game :)
+
+Unity Project
